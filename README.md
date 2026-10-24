@@ -70,3 +70,17 @@ This project demonstrates hands-on Identity and Access Management (IAM) tasks us
 ## Notes
 
 This is a personal learning project using a lab environment and test identities. It is intended to demonstrate IAM concepts and hands-on practice, not production administration.
+
+## Lab Progress
+
+- [x] Lab 1 — Joiner: Create a user and assign group access
+- [x] Lab 2 — Mover: Update user attributes and adjust group access
+- [x] Lab 3 — Leaver: Disable a user and remove group membership
+
+## Key Learning Outcomes
+
+- Created and verified a user account in Microsoft Entra ID.
+- Managed security group memberships.
+- Updated user department and job title during a role change.
+- Disabled an account and removed its lab group access during offboarding.
+- Verified identity lifecycle changes and documented results.
