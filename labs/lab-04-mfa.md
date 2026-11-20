@@ -1,4 +1,3 @@
-
 # Lab 4: MFA and Authentication Security — Microsoft Entra ID
 
 ## Overview
